@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title">Body Mass Index</string>
+    <string name="title2">STATUS</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="height">Height (CM)</string>
+    <string name="hint">0</string>
+    <string name="bmi">BMI</string>
+    <string name="show_bmi">-</string>
+    <string name="status">Weight Status</string>
+    <string name="show_status">-</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="ws1">Underweight</string>
+    <string name="ws2">Normal</string>
+    <string name="ws3">Overweight</string>
+    <string name="ws4">Obese</string>
+    <string name="ws5">Extremly Obese</string>
+    <string name="error">ERROR</string>
+</resources>

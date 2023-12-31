@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title">ค่าดัชนีมวลกาย</string>
+    <string name="title2">สถานะ</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="hint">0</string>
+    <string name="bmi">ค่าดัชนีมวลกาย</string>
+    <string name="show_bmi">-</string>
+    <string name="status">เกณฑ์</string>
+    <string name="show_status">-</string>
+    <string name="calculate">คำนวณ</string>
+    <string name="ws1">ต่ำกว่าเกณฑ์</string>
+    <string name="ws2">สมส่วน</string>
+    <string name="ws3">น้ำหนักเกิน</string>
+    <string name="ws4">อ้วนระดับ 1</string>
+    <string name="ws5">อ้วนระดับ 2</string>
+    <string name="error">เกิดข้อผิดพลาด</string>
+</resources>
